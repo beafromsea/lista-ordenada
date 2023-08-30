@@ -1,6 +1,6 @@
 # 🖥️  Ferramenta de Ordenação de Propriedades CSS
 
-Nesse projeto temos uma **Ferramenta de Ordenação de Propriedades CSS** e com ela é possível inserir uma lista de propriedades CSS, ordena-la alfabeticamente e visualizar o resultado no terminal.
+Neste projeto temos uma **Ferramenta de Ordenação de Propriedades CSS** e com ela é possível inserir uma lista de propriedades CSS, ordena-la alfabeticamente e visualizar o resultado no terminal.
 
 O mesmo foi criado como requisito do curso de Formação Web Dev Fullstack - Resilia, com o intuito de colocar em prática o conteúdo estudado no módulo 4, onde o que foi solicitado é:
 
