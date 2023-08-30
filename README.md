@@ -1,9 +1,8 @@
-# 🛠️  Ferramenta de Ordenação de Propriedades CSS
+# 🖥️  Ferramenta de Ordenação de Propriedades CSS
+
 Nesse projeto temos uma **Ferramenta de Ordenação de Propriedades CSS** e com ela é possível inserir uma lista de propriedades CSS, ordena-la alfabeticamente e visualizar o resultado no terminal.
 
-Este é um projeto desenvolvido em Node.js que oferece uma ferramenta para auxiliar no trabalho com propriedades CSS.
-
-O mesmo foi criado como requisito do curso de Formação Web Dev Fullstack - Resilia, com o intuito de colocar em prática o conteúdo estudado no módulo 4, onde o quee foi solicitado é:
+O mesmo foi criado como requisito do curso de Formação Web Dev Fullstack - Resilia, com o intuito de colocar em prática o conteúdo estudado no módulo 4, onde o que foi solicitado é:
 
           Uma empresa de desenvolvimento de software precisa de uma ferramenta que vai
           receber uma lista de propriedades de CSS (ex: background-color, font-size, text-align)
@@ -101,7 +100,7 @@ sair
 
 *MARGIN-BOTTON*
 
-#### 🎉🎉🎉 Espero que esse projeto possa lhe auxiliar no que procura.
+#### 🎉🎉🎉 Espero que esse projeto possa lhe auxiliar no que busca.
 
 *Feito por Beatriz Santos 🖤*
 
