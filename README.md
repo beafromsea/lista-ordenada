@@ -100,9 +100,9 @@ sair
 
 *MARGIN-BOTTON*
 
-#### 🎉🎉🎉 Espero que esse projeto possa lhe auxiliar no que busca.
+#### 🎉🎉🎉 Espero que esse projeto possa lhe auxiliar.
 
-*Feito por Beatriz Santos 🖤*
+*Feito por Beatriz Santos🖤*
 
 ## 📖 Referência
 
