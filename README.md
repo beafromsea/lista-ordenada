@@ -2,17 +2,11 @@
 
 Neste projeto temos uma **Ferramenta de Ordenação de Propriedades CSS** e com ela é possível inserir uma lista de propriedades CSS, ordena-la alfabeticamente e visualizar o resultado no terminal.
 
-O mesmo foi criado como requisito do curso de Formação Web Dev Fullstack - Resilia, com o intuito de colocar em prática o conteúdo estudado no módulo 4, onde o que foi solicitado é:
-
-          Uma empresa de desenvolvimento de software precisa de uma ferramenta que vai
-          receber uma lista de propriedades de CSS (ex: background-color, font-size, text-align)
-          e vai devolvê-la ordenada de A-Z.
-
 
 ## 🚀 Tecnologias
 Projeto desenvolvido com as tecnologias:
 
-- [Node.js](https://nodejs.org/en/)
+- [Node.js](https://nodejs.org/en/) (versão v20.5.1)
 - [readline-sync](https://www.npmjs.com/package/readline-sync)
 
 ## 📍 Rodando localmente
@@ -100,10 +94,10 @@ sair
 
 *MARGIN-BOTTON*
 
-#### 🎉🎉🎉 Espero que esse projeto possa lhe auxiliar.
 
-*Feito por Beatriz Santos🖤*
-
-## 📖 Referência
+## 📖 Referências
 
  - [NodeJS - documentação](https://nodejs.org/en/docs)
+ - [Readline-sync - documentação](https://www.npmjs.com/package/readline-sync)
+
+*Feito por Beatriz Santos🖤*
