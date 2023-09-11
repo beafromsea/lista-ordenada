@@ -22,7 +22,7 @@ Projeto desenvolvido com as tecnologias:
 ***Entre no diretório do projeto***
 
 ```bash
-  cd projeto-ferramenta
+  cd lista-ordenada
 ```
 
 ***Abra com code (opcional)***
