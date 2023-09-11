@@ -2,5 +2,16 @@
   "dependencies": {
     "readline-sync": "^1.4.10"
   },
-  "type": "module"
+  "type": "module",
+  "name": "projeto-ferramenta",
+  "description": "Neste projeto temos uma **Ferramenta de Ordenação de Propriedades CSS** e com ela é possível inserir uma lista de propriedades CSS, ordena-la alfabeticamente e visualizar o resultado no terminal.",
+  "version": "1.0.0",
+  "main": "projeto.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node projeto.js"
+  },
+  "author": "Beatriz",
+  "license": "MIT"
 }
